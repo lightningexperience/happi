@@ -2,5 +2,4 @@ streamlit
 python-dotenv
 langchain
 langchain_groq
-os
 langchain_core
