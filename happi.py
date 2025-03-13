@@ -26,8 +26,8 @@ def main():
         return
 
     # The title and greeting message of the Streamlit application
-    st.title("Chat with HappyAgent!")
-    st.write("Hey there! 😃 I'm HappyAgent, your super friendly chatbot! I'm here to answer your questions, share cool info, or just have a fun chat. Oh, and did I mention? I'm *crazy fast*! 🚀 Let's talk! 😃 ")
+    st.title("Chat with Happy!")
+    st.write("Hey there! 😃 I'm Happy, your super friendly chatbot! I'm here to answer your questions, share cool info, or just have a fun chat. Oh, and did I mention? I'm *crazy fast*! 🚀 Let's talk! 😃 ")
 
     # Add customization options to the sidebar
     st.sidebar.title('Customize')
